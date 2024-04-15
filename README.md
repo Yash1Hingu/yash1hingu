@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://yashhingu.vercel.app/](https://yashhingu.vercel.app/)
 
-- 📝 I regularly write articles on [https://yashblog.vercel.app/](https://yashblog.vercel.app/)
-
 - 💬 Ask me about **react-js,node-js,express-js,mongodb**
 
 - 📫 How to reach me **yash23hingu@gmail.com**
