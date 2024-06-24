@@ -1,28 +1,65 @@
-<h1 align="center">Hi 👋, I'm Yash Hingu</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+# Welcome to My GitHub Profile! ![GitHub followers](https://img.shields.io/github/followers/Yash1Hingu?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/Yash1Hingu?style=social)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash1hingu&label=Profile%20views&color=0e75b6&style=flat" alt="yash1hingu" /> </p>
+Hello, I'm a Full-Stack Developer specializing in the MERN stack. I have a strong foundation in web development, and a passion for creating dynamic and user-friendly applications.
 
-- 👨‍💻 All of my projects are available at [https://yashhingu.vercel.app/](https://yashhingu.vercel.app/)
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-brightgreen) ![LeetCode problems solved](https://img.shields.io/badge/LeetCode-Problems%20Solved-yellow) ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-- 💬 Ask me about **react-js,node-js,express-js,mongodb**
 
-- 📫 How to reach me **yash23hingu@gmail.com**
+## 🔧 Technical Skills
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lgWslblfSDpfWf2Mvdk_rcpDC_wNaU2r/view?usp=sharing](https://drive.google.com/file/d/1lgWslblfSDpfWf2Mvdk_rcpDC_wNaU2r/view?usp=sharing)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hinguyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hinguyash" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yash23hingu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yash23hingu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yash1hingu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash1hingu" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🔧 Key Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash1hingu&show_icons=true&locale=en&layout=compact" alt="yash1hingu" /></p>
+### [Travellify](https://devfolio.co/projects/travellify-2373)
+*06 Apr, 2024 - 07 Apr, 2024*
+- **Team Size**: 4
+- **Key Skills**: ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- Developed a travel blogging platform with features for blog management, user profiles, and social media sharing.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash1hingu&show_icons=true&locale=en" alt="yash1hingu" /></p>
+### [Yash Blogs](https://yashblog.vercel.app/)
+*24 Dec, 2023 - 21 Mar, 2024*
+- **Team Size**: 1
+- **Key Skills**: ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+- Created a blogging platform with user authentication, blog management, and engagement features.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash1hingu&" alt="yash1hingu" /></p>
+### [AI Face Recognition](https://yash1hingu.github.io/aiFaceRecogonization/)
+*20 Feb, 2023 - 25 Feb, 2023*
+- **Key Skills**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- Built a web app for attendance using AI face recognition, matching uploaded photos with records.
+
+## 🏆 Achievements
+![LeetCode Stats](https://leetcard.jacoblin.cool/yash1hingu)
+
+- ![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solved-orange) Completed 50 consecutive days on LeetCode, tackling programming challenges daily.
+
+## 📜 Certifications
+
+- **A Masterclass for NodeJS**: ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?logo=express&logoColor=white)
+- **Frontend Developer (Basic)**: ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white)
+- **The Complete 2024 Web Development Bootcamp**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white) ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?logo=express&logoColor=white) ![API](https://img.shields.io/badge/API-REST-green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+- **React - The Complete Guide 2024 (incl. Next.js, Redux)**: ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+
+## 🎓 Seminars & Workshops
+
+- **GDSC WOW (05 May, 2024)**: Kubernetes, Social Awareness, Web API, Cloud Computing
+- **Ace Hack 3.0 (06 Apr, 2024 - 07 Apr, 2024)**: Web Development, JavaScript, NodeJS, MongoDB, HTML5, CSS, ReactJS, Express.js
+
+## 🛠 Tools & Technologies
+
+- **Languages**: ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+- **Frameworks & Libraries**: ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white), ![Express.js](https://img.shields.io/badge/ExpressJS-000000?logo=express&logoColor=white), ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white), ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white), ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+- **Databases**: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white), SQL
+- **Version Control**: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+## 📫 Contact Information
+
+- **GitHub**: [Yash1Hingu](https://github.com/Yash1Hingu)
+- **Portfolio**: [yashhingu.vercel.app](https://yashhingu.vercel.app/)
+- **LeetCode**: [yash1hingu](https://leetcode.com/yash1hingu/)
+
+
+---
+
+Thank you for visiting my GitHub profile!
